@@ -1,3 +1,8 @@
 build/
 sample_dest.pdf
 
+/gradle/
+/.gradle/
+/.idea/
+/ipaexg.ttf
+/git-config-pub.sh
